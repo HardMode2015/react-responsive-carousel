@@ -13,27 +13,27 @@ import(/* webpackChunkName: "carousel-component" */ './components/Carousel').the
             onClickThumb={(...args) => console.log('onClickThumb', ...args)}
         >
             <div>
-                <img src="assets/1.jpeg" />
+                <img src="https://realstate.test/storage/properties/test2/3475035-e6787o.webp" />
                 <p className="legend">Legend 1</p>
             </div>
             <div>
-                <img src="assets/2.jpeg" />
+                <img src="https://realstate.test/storage/properties/test2/3475035-e6787o.webp" />
                 <p className="legend">Legend 2</p>
             </div>
             <div>
-                <img src="assets/3.jpeg" />
+                <img src="https://realstate.test/storage/properties/test2/3475035-e6787o.webp" />
                 <p className="legend">Legend 3</p>
             </div>
             <div>
-                <img src="assets/4.jpeg" />
+                <img src="https://realstate.test/storage/properties/test2/3475035-e6787o.webp" />
                 <p className="legend">Legend 4</p>
             </div>
             <div>
-                <img src="assets/5.jpeg" />
+                <img src="https://realstate.test/storage/properties/test2/3475035-e6787o.webp" />
                 <p className="legend">Legend 5</p>
             </div>
             <div>
-                <img src="assets/6.jpeg" />
+                <img src="https://realstate.test/storage/properties/test2/3475035-e6787o.webp" />
                 <p className="legend">Legend 6</p>
             </div>
         </Carousel>
